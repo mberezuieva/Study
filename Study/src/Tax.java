@@ -4,7 +4,7 @@ public class Tax {
     String state;
     static int customerCounter;
 
-    Tax (int numberOfDependents, double grossIncome, String state) {
+     Tax (int numberOfDependents, double grossIncome, String state) {
         this.grossIncome = grossIncome;
         this.numberOfDependents = numberOfDependents;
         this.state = state;
@@ -13,9 +13,11 @@ public class Tax {
     }
 
     public double calcTax() {
+
         return (grossIncome*0.33 - numberOfDependents*100);
     }
     static void convertToEuro (double tax) {
+
         System.out.println("Converted tax is " + tax*0.25);
     }
 }

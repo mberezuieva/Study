@@ -1,9 +1,9 @@
 package com.course.onseo;
 
-import java.util.Arrays;
-
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World!!!");
+        int d = 10;
+        double L = d*Math.PI;
+        System.out.println(L);
     }
 }
