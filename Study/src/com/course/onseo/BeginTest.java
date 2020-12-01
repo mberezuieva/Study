@@ -9,6 +9,9 @@ public class BeginTest {
 
       System.out.println(c.circleArea());
 
+      Point p = new Point(1,2);
+      System.out.println(p.toString());
+
 
 
 

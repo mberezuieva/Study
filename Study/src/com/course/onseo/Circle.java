@@ -24,4 +24,8 @@ public class Circle extends Point {
     public double lengthCircle () {
         return 2*rad*Math.PI;
     }
+
+    public String toString() {
+        return "Circle "+getX()+" "+getY()+" "+rad;
+    }
 }
