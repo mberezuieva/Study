@@ -11,8 +11,7 @@ public class Human {
         this.male = male;
     }
 
-    public Boolean bearLover () {
-        if (male) return true;
-        return false;
+    public Boolean beerLover () {
+        return male && age >= 18;
     }
 }
