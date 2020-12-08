@@ -6,7 +6,6 @@ public class Cylinder extends Circle {
     Cylinder (int x, int y, int rad, int height) {
         super (x, y, rad);
         this.height = height;
-        System.out.println("Hello, i'm Cylinder with center in "+x+" "+y+" radius "+rad+" and height "+height);
     }
 
     public int getHeight() { return height; }
@@ -19,6 +18,11 @@ public class Cylinder extends Circle {
     public double volumeCyl () {
         return height*circleArea();
     }
+
+    public String toString() {
+        return "Point "+getX()+" "+getY()+" "+getHeight();
+    }
+
 
 
 }

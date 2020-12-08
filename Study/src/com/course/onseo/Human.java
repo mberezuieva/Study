@@ -12,6 +12,7 @@ public class Human {
     }
 
     public Boolean beerLover () {
-        return male && age >= 18;
+        if (male) return true;
+        return false;
     }
 }
