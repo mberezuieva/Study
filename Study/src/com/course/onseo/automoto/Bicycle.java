@@ -1,4 +1,4 @@
 package com.course.onseo.automoto;
 
-public class Car extends Auto {
+public class Bicycle extends Auto {
 }
