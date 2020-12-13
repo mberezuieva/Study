@@ -1,4 +1,6 @@
-package com.course.onseo;
+package com.course.onseo.figures;
+
+import com.course.onseo.figures.Circle;
 
 public class Cylinder extends Circle {
     private int height;

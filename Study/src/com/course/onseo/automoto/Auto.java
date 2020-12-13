@@ -1,9 +1,14 @@
 package com.course.onseo.automoto;
 
 public abstract class Auto {
-    private String model;
+    protected String model;
+    protected int sits;
+    protected int goods;
 
-    int sits;
-    int goods;
-    int enCapacity;
+    Auto (String model, int sits, int goods) {
+        this.model = model;
+        this.sits = sits;
+        this.goods = goods;
+    }
+
 }

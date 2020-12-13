@@ -1,4 +1,4 @@
-package com.course.onseo;
+package com.course.onseo.figures;
 
 public class Point {
     private int x = 0;

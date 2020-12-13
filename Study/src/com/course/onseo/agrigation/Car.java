@@ -1,14 +1,11 @@
 package com.course.onseo.agrigation;
 
-import java.util.Arrays;
-
 public class Car {
     private String model;
-
     private Driver driver;
-    private Wheel[]wheel;
-
+    private Wheel[] wheel;
     private Engine engine;
+
 
     public Car(String model, Wheel[] wheel, String engineSerialNumber, double engineVolume, String engineType) {
         this.model = model;
@@ -21,10 +18,7 @@ public class Car {
     }
 
     public void setDriver(Driver driver) {
-        if(driver.getCar() == this)
-            return;
         this.driver = driver;
-        driver.setCar(this);
     }
 
     public Wheel[] getWheel() {
@@ -35,12 +29,5 @@ public class Car {
         this.wheel = wheel;
     }
 
-    @Override
-    public String toString() {
-        return "Car{" +
-                "model='" + model + '\'' +
-                ", wheel=" + Arrays.toString(wheel) +
-                ", engine=" + engine +
-                '}';
-    }
+
 }

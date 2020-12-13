@@ -7,37 +7,23 @@ public class Driver {
 
     public Driver(String name) {
         this.name = name;
-        isCarSettled = false;
     }
 
     public String getName() {
         return name;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+    private boolean isCarSettled() {
+        return car == null;
+    }
+
+
     public void setCar(Car car) {
-        if(car.getDriver() != this) {
-            dismissDriver();
-        }else {
-            isCarSettled = true;
-            this.car = car;
-            car.setDriver(this);
-        }
-    }
-
-    public Car getCar() {
-        return car;
-    }
-
-    private void dismissDriver(){
-        this.getCar().setDriver(null);
-        this.setCar(null);
-    }
-
-    @Override
-    public String toString() {
-        return "Driver{" +
-                "name='" + name + '\'' +
-                ", car=" + car +
-                '}';
+        isCarSettled = true;
+        car.setDriver(this);
+        this.car = car;
     }
 }
