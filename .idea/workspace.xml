@@ -20,18 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e7c69f7-09aa-4555-b673-9f2a0403d17c" name="Default Changelist" comment="test111">
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/animals/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/animals/app.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/IMoveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/IMoveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Notebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Processor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607851074699</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test111">
+      <created>1607974423628</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607974423629</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

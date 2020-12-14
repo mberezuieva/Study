@@ -11,7 +11,7 @@ public class Notebook {
 
     Notebook(String modelName, int capacity) {
         this.model = modelName;
-        this.cpu = new Processor();
+        this.cpu = new Processor (3);
         this.screen = new Screen();
         this.users = new String[capacity];
     }
@@ -25,16 +25,28 @@ public class Notebook {
             this.user = user;
             users[this.userCount] = user.getName();
             this.userCount++;
-            System.out.println("user "+user.getName());
+            System.out.println("User "+user.getName());
             return true;
         }
         else
         {
-            System.out.println("need cleaning");
-            return false;}
+            System.out.println("Need cleaning");
+            return false;
+        }
     }
 
-    public void clear() {
-        this.userCount = 0;
+    public boolean clear() {
+        if (cpu.getHitPoints() > 0) {
+            this.userCount = 0;
+            cpu.setHitPoints(cpu.getHitPoints() - 1);
+            System.out.println("Cleaning is done");
+            return true;
+        }
+        else {
+            System.out.println("Note is dead");
+            return false;
+        }
     }
+
+
 }
