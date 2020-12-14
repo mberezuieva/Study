@@ -1,5 +1,8 @@
 package com.course.onseo.automoto;
 
 public interface IMoveable {
-    public void Move ();
+    default void Move ()
+    {
+        System.out.println("Default move");
+    }
 }

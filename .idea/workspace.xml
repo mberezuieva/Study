@@ -20,24 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e7c69f7-09aa-4555-b673-9f2a0403d17c" name="Default Changelist" comment="test111">
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/IMoveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/BeginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/BeginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/figures/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/figures/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/Integer29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/figures/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/agrigation/Wheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/animals/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/animals/app.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Auto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/IMove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/IMoveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/automoto/IMoveable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -74,7 +68,20 @@
       <recent name="com.course.onseo.agrigation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course.onseo.notebook.App" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.onseo.notebook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.course.onseo.automoto.App" />
       <module name="Study" />
@@ -114,19 +121,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course.onseo.HelloWorld" />
-      <module name="Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.onseo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.course.onseo.animals.app" />
       <module name="Study" />
@@ -142,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.app" />
         <item itemvalue="Application.BeginTest" />
         <item itemvalue="Application.Begin" />
-        <item itemvalue="Application.HelloWorld (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607413398412</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test111">
+      <created>1607851074699</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607851074699</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

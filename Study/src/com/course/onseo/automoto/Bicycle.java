@@ -1,6 +1,6 @@
 package com.course.onseo.automoto;
 
-public class Bicycle extends Auto implements IMoveable{
+public class Bicycle extends Auto {
     Bicycle(String model, int sits, int goods) {
         super(model, sits, goods);
     }

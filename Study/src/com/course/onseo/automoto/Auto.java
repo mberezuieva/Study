@@ -1,6 +1,6 @@
 package com.course.onseo.automoto;
 
-public abstract class Auto {
+public abstract class Auto implements IMoveable{
     protected String model;
     protected int sits;
     protected int goods;
