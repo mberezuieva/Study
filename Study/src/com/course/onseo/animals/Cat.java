@@ -1,6 +1,5 @@
 package com.course.onseo.animals;
 
-import java.sql.SQLOutput;
 
 public class Cat extends Animal {
 

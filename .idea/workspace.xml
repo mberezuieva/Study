@@ -20,27 +20,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e7c69f7-09aa-4555-b673-9f2a0403d17c" name="Default Changelist" comment="test111">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IDoubles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/ILongs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersDivide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsDivide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/myArray/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/myArray/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/myArray/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/user/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/user/WorkPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/doubles/DoublesAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/doubles/DoublesDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/doubles/DoublesMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/doubles/DoublesSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/longs/LongsMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/longs/LongsSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/strings/IStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/strings/StringsAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba2/MyMass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/weight/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/weight/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/weight/WeighedAndHappy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/animals/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/doubles/IDoubles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/integers/IIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/ILongs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/longs/ILongs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/integers/IntegersAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersDivide.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/integers/IntegersDivide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/integers/IntegersMultiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/IntegersSubtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/integers/IntegersSubtract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/longs/LongsAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsDivide.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/longs/LongsDivide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsMultiply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/laba/LongsSubtract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/myArray/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/myArray/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/myArray/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/myArray/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/notebook/myArray/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/myArray/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/com/course/onseo/user/WorkPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/com/course/onseo/user/WorkPlace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,38 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course.onseo.notebook.myArray.App" />
-      <module name="Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.onseo.notebook.myArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.course.onseo.user.App" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.course.onseo.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course.onseo.laba.App" />
-      <module name="Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.onseo.laba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,6 +129,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course.onseo.laba.App" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.onseo.laba.doubles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course.onseo.myArray.App" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.onseo.myArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App (4)" />
@@ -155,7 +165,19 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -238,12 +260,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
@@ -251,5 +274,27 @@
     <MESSAGE value="dgdg dhdfhhfd" />
     <MESSAGE value="test111" />
     <option name="LAST_COMMIT_MESSAGE" value="test111" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2676" y="404" width="418" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608638540856">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2676" y="404" width="418" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608638540856" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1608640455447">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608640455447" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1608640455446">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608640455446" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1608640455446">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608640455446" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1608640455447">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608640455447" />
   </component>
 </project>

@@ -9,7 +9,7 @@ public class WorkPlace {
     public void initUsers() {
         if(users!=null){
         for (int i = 0; i < users.length; i++) {
-            users[i] = new User(new String(97+i+""),(int)(Math.random()*15+18),users.length%(i+1)!=0);
+            users[i] = new User(new String(97+i+""),(int)(Math.random()*15),users.length%(i+1)!=0);
         }}
     }
 

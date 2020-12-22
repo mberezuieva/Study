@@ -1,6 +1,6 @@
-package com.course.onseo.notebook.myArray;
+package com.course.onseo.myArray;
 
-import static com.course.onseo.notebook.myArray.Helper.divide;
+import static com.course.onseo.myArray.Helper.divide;
 
 public class App {
     public static void main(String[] args) {

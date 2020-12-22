@@ -1,4 +1,4 @@
-package com.course.onseo.notebook.myArray;
+package com.course.onseo.myArray;
 
 public class MyArray {
     private int[] mass;
