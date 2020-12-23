@@ -39,7 +39,7 @@ public class User implements Comparable{
         isAdminRule = adminRule;
     }
     public String toString() {
-        return "Useer";
+        return "User";
     }
     public void sortUsers() {
         //Arrays.sort(users);
